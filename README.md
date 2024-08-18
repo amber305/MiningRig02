@@ -17,7 +17,7 @@ API Communication: RESTful API
 
 🚀 Getting Started
 1. Clone the Repository:
-   git clone https://github.com/yourusername/MiningRig.git
+   git clone https://github.com/amber305/MiningRig.git
    cd MiningRig
 
 2.Setting Up the Backend:
